@@ -1,0 +1,5 @@
+torch
+dgl-cu102==0.5.2
+tqdm
+pandas
+rdflib
